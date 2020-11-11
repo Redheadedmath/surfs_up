@@ -30,6 +30,7 @@ The results of these 2 queries were transformed into two data frames for viewing
 
 <p float="middle">
   <img src="Data/june_stats_year.png" width="30%" />
+
   <img src=“Data/dec_stats_year.png” width=“30%” />
 </p> 
 
