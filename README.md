@@ -12,13 +12,13 @@ The weather analysis of the study is strong for the area, with 1517 observed tem
 
 <table><tr>
 <td> <img src="Data/June_Temps.png" alt="Drawing" style="width=30%;"/> </td>
-<td> <img src="Data/Fig1.png" alt="Drawing" style="width=30%;"/> </td>
+<td> <img src="Data/Dec_temps.png" alt="Drawing" style="width=30%;"/> </td>
 </tr></table> 
 
-<p float="middle">
-  <img src="Data/Dec_temps.png" width="30%" />
-  <img src=“Data/Fig2.png” width=“30%” />
-</p> 
+<table><tr>
+<td> <img src="Data/Fig1.png" alt="Drawing" style="width: 100;"/> </td>
+<td> <img src="Data/Fig2.png" alt="Drawing" style="width: 100;"/> </td>
+</tr></table>
 
 ## Summary
 This analysis considers only the weather as an indicator for success or failure of a potential investment. With that in mind, the analysis concludes while December’s average temperature is, statistically-speaking, significantly colder than January (by 3 degrees), it is not a deal-breaker as far as the shop’s appeal is concerned. The primary concern, however, is the greater variance in December temperatures that could make the month more difficult to predict than June, and thus, harder to prepare for. <br /> <br />
