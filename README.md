@@ -28,11 +28,10 @@ The analysis suggests and ran the following queries to clarify the behavior of t
 
 The results of these 2 queries were transformed into two data frames for viewing and for further analyses. The June results are on the left and December results are on the right. The code is included in the challenge notebook. <br /> <br />
 
-<p float="middle"><p>
-  <img src="Data/june_stats_year.png" width="30%" />
-
-  <img src=“Data/dec_stats_year.png” width=“30%” />
-</p> 
+<table><tr>
+<td> <img src="Data/june_stats_year.png" alt="Drawing" style="width: 100px;"/> </td>
+<td> <img src="Data/dec_stats_year.png" alt="Drawing" style="width: 100px;"/> </td>
+</tr></table> 
 
 ### Extended: Further Analysis 
 To further actualize the information provided in the above data frames, it could be a useful analysis to depict the information in scatterplots or compare the years’ temperatures by box plots to immediately see how the variance of temperature is different per year.  <br />
