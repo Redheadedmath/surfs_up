@@ -10,13 +10,13 @@ The weather analysis of the study is strong for the area, with 1517 observed tem
   
 <br /> <br />
 
-<p float="left">
+<p float="middle">
   <img src="Data/June_Temps.png" width="300" />
-  <img src=“Fig1.png” width=“300” />
+  <img src=“Data/Fig1.png” width=“300” />
 </p> 
 
-<p float="left">
-  <img src="Data/Dec_Temps.png" width="300" />
+<p float="middle">
+  <img src="Data/Dec_temps.png" width="300" />
   <img src=“Data/Fig2.png” width=“300” />
 </p> 
 
@@ -28,7 +28,7 @@ The analysis suggests and ran the following queries to clarify the behavior of t
 
 The results of these 2 queries were transformed into two data frames for viewing and for further analyses. The June results are on the left and December results are on the right. The code is included in the challenge notebook. <br /> <br />
 
-<p float="left">
+<p float="middle">
   <img src="Data/june_stats_year.png" width="300" />
   <img src=“Data/dec_stats_year.png” width=“300” />
 </p> 
