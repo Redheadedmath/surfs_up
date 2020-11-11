@@ -16,8 +16,8 @@ The weather analysis of the study is strong for the area, with 1517 observed tem
 </tr></table> 
 
 <table><tr>
-<td> <img src="Data/Fig1.png" alt="Drawing" style="height: 175;"/> </td>
-<td> <img src="Data/Fig2.png" alt="Drawing" style="height: 175;"/> </td>
+<td> <img src="Data/Fig1.png" alt="Drawing" style="height: 105;"/> </td>
+<td> <img src="Data/Fig2.png" alt="Drawing" style="height: 105;"/> </td>
 </tr></table>
 
 ## Summary
