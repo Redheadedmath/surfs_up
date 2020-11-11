@@ -11,7 +11,7 @@ The weather analysis of the study is strong for the area, with 1517 observed tem
 <br /> <br />
 
 <p float="middle">
-  <img src="Data/June_Temps.png" width="300" />
+  <img src="Data/June_Temps.png" width="90%" />
   <img src=“Data/Fig1.png” width=“300” />
 </p> 
 
