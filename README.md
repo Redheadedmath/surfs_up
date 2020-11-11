@@ -28,7 +28,7 @@ The analysis suggests and ran the following queries to clarify the behavior of t
 
 The results of these 2 queries were transformed into two data frames for viewing and for further analyses. The June results are on the left and December results are on the right. The code is included in the challenge notebook. <br /> <br />
 
-<p float="middle">
+<p float="middle"><p>
   <img src="Data/june_stats_year.png" width="30%" />
 
   <img src=“Data/dec_stats_year.png” width=“30%” />
